@@ -1,0 +1,1 @@
+export type GameResult = "RUNNING" | "LOST" | "WON"
